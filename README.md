@@ -1,8 +1,6 @@
 # Hi there, I'm Dhruvanshi! 👋
-## 🌱 What I'm Currently Up To
-- Actively learning and expanding my knowledge in various programming languages.
-- Engaging with the latest advancements in artificial intelligence and staying up-to-date with industry trends.
-- Developing skills in software development methodologies.
+## 🌱 About me
+- A second year EE undergrad at IIT Madras
 ## 🤝 Open to Collaboration
 - Enthusiastic about teamwork and brainstorming.
 - Interested in contributing to projects that create a positive impact on the world.
