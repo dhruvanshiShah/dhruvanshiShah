@@ -1,4 +1,3 @@
-# Hi, I'm Dhruvanshi! 
  [![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
  [![C++ Logo](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
  [![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
